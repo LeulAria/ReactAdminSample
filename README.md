@@ -1,4 +1,8 @@
-# Done in like 20mins
+<p align="center">
+  <img width="100px" src="https://marmelab.com/react-admin/assets/logo.svg" />
+</p>
+
+# 2CRUD Done in like 20mins
 
 As far as i am conserned this is the best way to create a simple admin page as fast as possible.
 
