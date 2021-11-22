@@ -2,12 +2,12 @@
 
 As far as i am conserned this is the best way to create a simple admin page as fast as possible.
 
-## Easy to integrate
-## Easy to start with
-## Easy to creat forms
-## Easy routing
-## Simple and straight forward doc
+  - Easy to integrate
+  - Easy to start with
+  - Easy to creat forms
+  - Easy routing
+  - Simple and straight forward doc
 
 ## simply fun
 
-#### for the future i would be glad to do advanced things with it
+*for the future i would be glad to do advanced things with it*
