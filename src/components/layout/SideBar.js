@@ -1,4 +1,4 @@
-import { Sidebar, Layout } from 'react-admin';
+import { Sidebar } from 'react-admin';
 import { makeStyles } from '@material-ui/core/styles';
 
 const useSidebarStyles = makeStyles({

@@ -17,7 +17,6 @@ import {
   Grid,
   InputAdornment,
   makeStyles,
-  createStyles,
 } from "@material-ui/core";
 import SearchIcon from "@material-ui/icons/Search";
 
